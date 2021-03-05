@@ -10,9 +10,9 @@ Will upload BOM soon, but for now:
 
 Only place the following resistors <b>AFTER</B> programming both Atmega328 (or do not place on pick n place)
 
-R54 (MISO)
-R55 (SCK)
-R53 (MOSI)
+R54 (MISO)<br>
+R55 (SCK)<br>
+R53 (MOSI)<br>
 
 
 
