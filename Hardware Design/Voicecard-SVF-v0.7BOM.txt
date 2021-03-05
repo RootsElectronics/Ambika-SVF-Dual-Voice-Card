@@ -1,4 +1,4 @@
-Partlist exported from C:/Users/jimbo/Documents/Electronics Work/DESIGN PROJECTS/Ambika SMD/Ambika SMD SVF Voice/Voicecard-SVF-v0.7.sch at 04/03/2021 18:33
+
 
 Qty Value         Device                Package               Parts                                                                                                             Description                                                                             
 4                 LED3MM                LED3MM                LED1, LED2, LED3, LED4                                                                                            LED                                                                                     
