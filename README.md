@@ -2,7 +2,7 @@
 Adaptation of the Mutable Instruments Ambika SVF Voice Card in 0603 SMD, with 2 Voices per voice card
 
 
-My initial prototype (verified working at 02/2021) utilised the original through hole resistors. On this version I have simply changed those for a surface mount equivalent. 
+My initial prototype (verified working at 02/2021) utilised the original through hole zener diodes. On this version I have simply changed those for a surface mount equivalent. 
 
 
 
