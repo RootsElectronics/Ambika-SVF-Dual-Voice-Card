@@ -8,7 +8,7 @@ My initial prototype (verified working at 02/2021) utilised the original through
 
 Will upload BOM soon, but for now:
 
-Only place the following resistors <b>AFTER</B> programming both Atmega328 (or do not place on pick n place)
+Some people may find they need to place the following resistors <b>AFTER</B> programming both Atmega328 (or do not place on pick n place)
 
 R54 (MISO)<br>
 R55 (SCK)<br>
