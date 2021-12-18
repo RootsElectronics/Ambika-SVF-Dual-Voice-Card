@@ -12,7 +12,9 @@ Will upload BOM soon, but for now:
 
 
 There are a few of these out in the wild now, someone kindly noted a fix for calibration they were having on 2 out of their 3 voice cards.
+
 To quote
+
 "I swapped R10 and R32 to 36k and they all calibrated approximately in the middle of the range (it may be worth experimenting with the feedback cap as well I guess.... but I'm not going to !)"
 
 
